@@ -46,11 +46,13 @@ Here is an outline for a website or web-based application that promotes diversit
   
 <h1>The technical stack used for the diversity project includes: </h1>
 
-Front-end Development: HTML, CSS, JavaScript, TailwindCSS
-Back-end Development: Node.js, ExpressJS, and MongoDB
-Cloud Platform: Replit
-Source Control: Git and Github
-Domain: get.tech
+Front-end Development: HTML, CSS, JavaScript, TailwindCSS <br>
+Back-end Development: Node.js, ExpressJS, and MongoDB <br>
+Cloud Platform: Replit <br>
+Source Control: Git and Github <br>
+Domain: get.tech <br>
+ 
+
 The above-mentioned technologies provide a solid foundation for the project and allow for seamless development and deployment of the platform. The team will continuously monitor and evaluate the technical stack to ensure that it is up-to-date and fully optimized to meet the project's needs.
 
   SCREENSHOTS
