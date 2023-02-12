@@ -57,7 +57,8 @@ Here is an outline for a website or web-based application that promotes diversit
 
 Whether you're an individual from an underrepresented group, or an ally looking to support diversity and inclusion in the tech industry, there's a place for you at Diversity Tech Connect.If you're interested in getting involved, here's what you can do:
 
-1. Sign up for our platform. This will give you access to all of our resources and 
+1. Sign up for our platform.
+This will give you access to all of our resources and 
 events.
 2. Explore our educational materials. We have a wide range of resources available, 
 from tutorials and guides, to courses and workshops.
