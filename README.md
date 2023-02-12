@@ -1,9 +1,17 @@
 # VIVIDHTA
-VIVIDHTA is a web-based application that promotes diversity and inclusion in the technology industry, specifically in the field of web development.
+<h1>Introduction</h1><br>
+Welcome to the Diversity Project! Our goal is to create a platform that promotes and fosters diversity and inclusiveness in various fields and industries. The project aims to bring together individuals from different backgrounds and provide them with resources, support, and opportunities to help them succeed.<br><br>
+
+What is Diversity Tech Connect?<br>
+Diversity Tech Connect is a website or web-based application that is designed to connect individuals from diverse backgrounds with the tech industry. Our platform is a 
+one-stop-shop for anyone looking to build a career in tech, regardless of their background or experience level.We provide educational materials and resources, mentorship opportunities, and networking events that are specifically designed to help underrepresented individuals succeed in the tech industry. We believe that everyone should have an equal opportunity to succeed, and that's why we're here.
+
+Why Diversity Tech Connect?<br>
+The technology industry is one of the fastest growing and most in-demand fields today, but it's also one of the least diverse. Many underrepresented groups face significant barriers to entry and advancement, which is why Diversity Tech Connect was created.Our platform provides the resources and support that these individuals need to succeed, including educational materials, mentorship opportunities, and networking events. We believe that everyone should have an equal opportunity to succeed, and our platform is designed to help make that a reality.
 
 
-Here is an outline for a website or web-based application that promotes diversity and 
-inclusion in the technology industry:
+<h1>Design</h1> <br>
+Here is an outline for a website or web-based application that promotes diversity and inclusion in the technology industry:
 
 1. Homepage:
   • Welcome message that highlights the importance of diversity and inclusion in the technology industry.
@@ -43,34 +51,12 @@ inclusion in the technology industry:
 ![vivdhta 3](https://user-images.githubusercontent.com/87767438/218299332-ea5d79aa-6b35-4423-bcce-2fffe1bf62f8.png)
 
 
-Vividhta - 
+<h1> Join Us </h1>
 
-Welcome to Vividhta, a platform dedicated to promoting diversity and 
-inclusion in the technology industry. Our goal is to increase representation and 
-advancement of underrepresented groups, and provide resources such as educational 
-materials, mentoring opportunities, and networking events.
-What is Diversity Tech Connect?
-Diversity Tech Connect is a website or web-based application that is designed to 
-connect individuals from diverse backgrounds with the tech industry. Our platform is a 
-one-stop-shop for anyone looking to build a career in tech, regardless of their 
-background or experience level.
-We provide educational materials and resources, mentorship opportunities, and 
-networking events that are specifically designed to help underrepresented individuals 
-succeed in the tech industry. We believe that everyone should have an equal 
-opportunity to succeed, and that's why we're here.
-Why Diversity Tech Connect?
-The technology industry is one of the fastest growing and most in-demand fields today, 
-but it's also one of the least diverse. Many underrepresented groups face significant 
-barriers to entry and advancement, which is why Diversity Tech Connect was created.
-Our platform provides the resources and support that these individuals need to succeed, 
-including educational materials, mentorship opportunities, and networking events. We 
-believe that everyone should have an equal opportunity to succeed, and our platform is 
-designed to help make that a reality.
-How to Get Involved
-Whether you're an individual from an underrepresented group, or an ally looking to 
-support diversity and inclusion in the tech industry, there's a place for you at Diversity 
-Tech Connect.
-If you're interested in getting involved, here's what you can do:
+<h3>How to Get Involved ?</h3>
+
+Whether you're an individual from an underrepresented group, or an ally looking to support diversity and inclusion in the tech industry, there's a place for you at Diversity Tech Connect.If you're interested in getting involved, here's what you can do:
+
 1. Sign up for our platform. This will give you access to all of our resources and 
 events.
 2. Explore our educational materials. We have a wide range of resources available, 
@@ -81,9 +67,11 @@ forums, attend our networking events, and connect with our mentors.
 4. Share your story. We believe that everyone has a unique story to tell, and we 
 would love to hear from you. Share your experiences, challenges, and successes 
 with our community, and help inspire others to succeed.
-How to Contribute
-We believe that everyone has a role to play in promoting diversity and inclusion in the 
-tech industry, and we welcome your contributions. Here's how you can get involved:
+
+<h3> How to Contribute </h3>
+
+We believe that everyone has a role to play in promoting diversity and inclusion in the tech industry, and we welcome your contributions. Here's how you can get involved:
+
 1. Donate. Your financial support will help us continue to provide resources and 
 support to underrepresented individuals in the tech industry.
 2. Volunteer. If you have expertise in the tech industry, or experience with diversity 
