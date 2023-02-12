@@ -42,6 +42,17 @@ Here is an outline for a website or web-based application that promotes diversit
   • The metrics could include statistics on the representation of underrepresented groups in the industry, the number of mentoring relationships formed, the number of job placements through the platform, and the number of stories shared.
   • A dashboard that displays the metrics and provides insights into the progress of diversity and inclusion initiatives in the technology industry.The platform should be user-friendly and accessible, with features such as responsive design and high-contrast color options for users with visual impairments. Additionally, the platform should prioritize privacy and security, and have clear terms of service and community guidelines to ensure a safe and supportive environment for all users.
   
+  
+  
+<h1>The technical stack used for the diversity project includes: </h1>
+
+Front-end Development: HTML, CSS, JavaScript, TailwindCSS
+Back-end Development: Node.js, ExpressJS, and MongoDB
+Cloud Platform: Replit
+Source Control: Git and Github
+Domain: get.tech
+The above-mentioned technologies provide a solid foundation for the project and allow for seamless development and deployment of the platform. The team will continuously monitor and evaluate the technical stack to ensure that it is up-to-date and fully optimized to meet the project's needs.
+
   SCREENSHOTS
   
 ![front](https://user-images.githubusercontent.com/87767438/218299221-b4e3dc4b-ee01-48cd-b650-eaaf9f7f29ae.png)
